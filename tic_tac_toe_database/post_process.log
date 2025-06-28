@@ -89,3 +89,4 @@ added 257 packages, and audited 258 packages in 6s
 found 0 vulnerabilities
 PostgreSQL is starting on port 5000...
 2025-06-28 15:11:32.249 UTC [1208] LOG:  checkpoint starting: time
+2025-06-28 15:13:13.832 UTC [1208] LOG:  checkpoint complete: wrote 977 buffers (6.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=99.160 s, sync=2.357 s, total=101.584 s; sync files=317, longest=0.072 s, average=0.008 s; distance=4537 kB, estimate=4537 kB; lsn=0/195DDD8, redo lsn=0/195DDA0
